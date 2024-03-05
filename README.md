@@ -16,16 +16,26 @@ Here are some ideas to get you started:
 ![Header](./header/github-header-image.png)
 
 ---
+
+### 📚 Bio:
+
+I have worked on banking and digital payment projects, where I led the development of microservices and the migration to more scalable and efficient architectures. My focus is on code quality, implementing best programming practices, and continuous improvement of the development process. I have skills in automated testing, continuous integration and deployment, as well as using tools like Docker, Kubernetes, Git, and Azure DevOps to manage the software lifecycle. Passionate about technology, I am committed to contributing to challenging projects and continuously enhancing my skills within an agile and collaborative environment.
+
+---
+
 ### :technologist: About Me :
 - 🔭 I'm currently working on a personal project, aiming for educational purposes, developing a bank application that utilizes event-driven architecture. My goal is to integrate smart contracts and cryptocurrencies into this endeavor.
 - 🌱 I’m currently learning Golang and Solidity.
+- 🤔 Interests: DDD, good practices, system design, agile methodologies, leadership and management.
 - ✉️ You can contact me here:
-  <a href="https://www.linkedin.com/in/aleksei-zhynguel/">
+  <div>
+    <a href="https://www.linkedin.com/in/aleksei-zhynguel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Bagde"/>
   </a>
   <a href="mailto:azhynguel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  </div>
 
 ---
 
