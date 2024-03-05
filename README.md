@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ---
 
-### Hi there I'm a Software Engineer 👋
+### Hi there I'm working as a Senior Software Engineer 👋
 
-- 🔭 I’m currently working on a bank application that uses event driven architecture. My plan is to integrate smart contracts and cryptocurrencies to it.
+- 🔭 I’m currently working on a bank application that uses event-driven architecture. My intention is to incorporate smart contracts and cryptocurrencies into it.
 - 🌱 I’m currently learning Golang and Solidity.
 
 
