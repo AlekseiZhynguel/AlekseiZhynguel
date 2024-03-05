@@ -27,15 +27,7 @@ I have worked on banking and digital payment projects, where I led the developme
 - 🔭 I'm currently working on a personal project, aiming for educational purposes, developing a bank application that utilizes event-driven architecture. My goal is to integrate smart contracts and cryptocurrencies into this endeavor.
 - 🌱 I’m currently learning Golang and Solidity.
 - 🤔 Interests: DDD, good practices, system design, agile methodologies, leadership and management.
-- ✉️ You can contact me here:
-  <div>
-    <a href="https://www.linkedin.com/in/aleksei-zhynguel/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Bagde"/>
-  </a>
-  <a href="mailto:azhynguel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  </div>
+
 
 ---
 
