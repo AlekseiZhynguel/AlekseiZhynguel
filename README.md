@@ -23,5 +23,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Hi there 👋
+---
+
+### Hi there I'm a Software Engineer 👋
+
+- 🔭 I’m currently working on a bank application that uses event driven architecture. My plan is to integrate smart contracts and cryptocurrencies to it.
+- 🌱 I’m currently learning Golang and Solidity.
+
 
