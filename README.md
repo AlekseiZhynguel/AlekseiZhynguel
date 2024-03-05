@@ -21,13 +21,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/aleksei-zhynguel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Bagde"/>
   </a>
+  <a href="mailto:azhynguel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
 
 ---
-
-### Hi there I'm working as a Senior Software Engineer 👋
-
-- 🔭 I’m currently working on a bank application that uses event-driven architecture. My intention is to incorporate smart contracts and cryptocurrencies into it.
+### :technologist: About Me :
+- 👨‍💼 I'm working as a Senior Software Engineer.
+- 🔭 I'm currently working on a personal project, aiming for educational purposes, developing a bank application that utilizes event-driven architecture. My goal is to integrate smart contracts and cryptocurrencies into this endeavor.
 - 🌱 I’m currently learning Golang and Solidity.
 
 
